@@ -16,7 +16,7 @@ A full-stack web application for managing library books and borrower details. Th
 ## Setup Instructions
 Follow the steps below to set up and run both the backend (Django) and frontend (React) locally.
 
-1. Backend Setup (Django)
+### Backend Setup (Django)
 1) Clone the Repository:
   git clone https://github.com/yourusername/LibraryManagement.git
   cd LibraryManagement
@@ -35,7 +35,7 @@ Follow the steps below to set up and run both the backend (Django) and frontend 
 
 The Django backend should now be accessible at http://localhost:8000.
 
-2. Frontend Setup (React)
+### Frontend Setup (React)
    
 1) Navigate to the React Project Directory:
   cd lmui
@@ -47,6 +47,6 @@ The Django backend should now be accessible at http://localhost:8000.
   npm start
 The React frontend should now be accessible at http://localhost:3000.
 
-3. Connecting Backend and Frontend
+### Connecting Backend and Frontend
 Ensure that your Django backend is running on http://localhost:8000 and the React frontend is running on http://localhost:3000.
 The React frontend should make API calls to the Django backend to fetch data and update records.
