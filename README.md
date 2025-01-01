@@ -27,7 +27,7 @@ Follow the steps below to set up and run both the backend (Django) and frontend 
 3) Install Dependencies: Install the necessary packages using pip:
   pip install -r backend/requirements.txt
 
-4)Database Setup: Run the Django migrations to set up the database:
+4) Database Setup: Run the Django migrations to set up the database:
   python manage.py migrate
 
 5) Run the Django Development Server: Start the backend server to test if everything is working:
