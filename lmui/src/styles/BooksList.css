@@ -1,0 +1,25 @@
+.books-list {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fafafa;
+    border-radius: 10px;
+  }
+  
+  .books-list h2 {
+    color: #333;
+  }
+  
+  .book-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    font-size: 18px;
+  }
+  
+  .book-item:last-child {
+    border-bottom: none;
+  }
+  
+  .book-item:hover {
+    background-color: #f1f1f1;
+  }
+  

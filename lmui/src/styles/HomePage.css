@@ -1,0 +1,25 @@
+.home-page {
+    text-align: center;
+    font-size: 24px;
+    margin: 20px;
+    background-color: #f4f4f4;
+    padding: 40px;
+    border-radius: 10px;
+  }
+  
+  .home-page h2 {
+    color: #333;
+  }
+  
+  .nav-link {
+    margin: 0 10px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .nav-link:hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+  

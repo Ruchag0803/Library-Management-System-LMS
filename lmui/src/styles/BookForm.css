@@ -1,0 +1,33 @@
+.book-form {
+    margin: 30px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+  }
+  
+  .book-form h2 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .book-form input, .book-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  
+  .book-form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .book-form button:hover {
+    background-color: #0056b3;
+  }
+  

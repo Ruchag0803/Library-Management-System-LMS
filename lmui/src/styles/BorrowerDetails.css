@@ -1,0 +1,17 @@
+.borrower-details {
+    margin: 30px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+  }
+  
+  .borrower-details h2 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .borrower-details p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  

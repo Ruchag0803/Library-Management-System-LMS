@@ -1,0 +1,25 @@
+.borrowers-list {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fafafa;
+    border-radius: 10px;
+  }
+  
+  .borrowers-list h2 {
+    color: #333;
+  }
+  
+  .borrower-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    font-size: 18px;
+  }
+  
+  .borrower-item:last-child {
+    border-bottom: none;
+  }
+  
+  .borrower-item:hover {
+    background-color: #f1f1f1;
+  }
+  

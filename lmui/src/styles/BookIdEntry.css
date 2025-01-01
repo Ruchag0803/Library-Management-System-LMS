@@ -1,0 +1,58 @@
+.book-id-entry {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 300px;
+  }
+  
+  label {
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  #book-id-input {
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #book-id-input:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  .submit-btn {
+    padding: 10px;
+    font-size: 1rem;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .submit-btn:active {
+    transform: scale(0.98);
+  }
+  

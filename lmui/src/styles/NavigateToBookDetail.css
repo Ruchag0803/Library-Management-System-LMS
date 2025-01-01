@@ -1,0 +1,37 @@
+.navigate-to-book-detail {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navigate-to-book-detail h2 {
+    color: #333;
+  }
+  
+  .navigate-to-book-detail form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .navigate-to-book-detail input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  
+  .navigate-to-book-detail button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .navigate-to-book-detail button:hover {
+    background-color: #0056b3;
+  }
+  

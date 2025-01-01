@@ -1,0 +1,21 @@
+.borrow-return {
+    margin: 30px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+  }
+  
+  .borrow-return h2 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .borrow-return form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .borrow-return input, .borrow-return button {
+    margin: 10px 0;
+  }
+  
